@@ -1,0 +1,74 @@
+body {
+    background-image: url(../imagenes/fondo.png);
+
+}
+
+header {
+    background-image: url(../imagenes/fondo-1.png);
+    margin:10px;
+    align-items: center;
+    padding: 60px;
+    width:800px;
+    height: 500px;
+
+
+}
+
+.cuadro {
+    margin: auto;
+    margin-top: 100px;
+}
+
+header>#logo {
+width:210px;
+height: 100px;
+}
+
+h3 {
+    color: white;
+    text-align: center;
+}
+
+h5 {
+    color: white;
+    padding-left: 70px;
+    padding-top: 20px ;
+}
+
+#ingreso {
+    color:white;
+    padding-left: 200px;
+    padding-top: 20px;
+}
+
+#ingreso, label {
+    text-align: 10PX;
+    margin: 5px;
+}
+
+.ingreso {
+    display: block;
+    padding: 10px;
+}
+
+label {
+    display: inline-block;
+    width: 80px;
+}
+
+.checkbox{
+    padding-left: 600px; 
+}
+
+.boton {
+    background-color: mediumpurple ;
+    border-radius: 5px;
+}
+
+a.ex1:hover, a.ex1:active {
+    color: red;
+}
+
+address{
+  font-weight: bold  ;
+}
